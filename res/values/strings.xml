@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Courseware For Android</string>
+  <string name="auth_success">Authentication succeeded.</string>
+  <string name="auth_failure">Authentication failed.</string>
+  <string name="profile_tab">Profile</string>
+  <string name="classrooms_tab">Classrooms</string>
+</resources>
